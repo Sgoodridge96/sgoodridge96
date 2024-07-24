@@ -1,3 +1,2 @@
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sgoodridge96)](https://git.io/awesome-stats-card)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgoodridge96)](https://github.com/sgoodridge96/github-readme-stats)
+<img alt="my stats" align="left" width="35%" src="https://github-readme-stats.vercel.app/api?username=sgoodridge96"/>
+<img alt="top langs" align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgoodridge96&layout=compact"/>
